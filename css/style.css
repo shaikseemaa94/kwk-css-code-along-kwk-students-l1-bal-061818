@@ -4,6 +4,6 @@ body {
       background-color: lightblue;
       font-size: 150%;
     }
-    #title-section {font-size:}
-    font-family: 'Shrikhand', cursive;
-    
+    #title-section {font-size: 'Shrikhand', cursive;}
+  .info-section  {font-family: 'Shrikhand', cursive;}
+  
